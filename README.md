@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Latihan Dasar-Dasar Pemrograman
 
 Kumpulan latihan Python untuk mata kuliah Dasar-Dasar Pemrograman, Pertemuan 6.
@@ -27,3 +28,6 @@ python latihan4_biodata.py
 ```
 
 Latihan 3 dan 4 meminta nilai masukan melalui terminal.
+=======
+# ddp-python-2601010042-main
+>>>>>>> 7673dec8b79512b309dbec0016f0481004ac0597
